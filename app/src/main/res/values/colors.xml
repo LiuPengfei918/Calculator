@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorMain">#333333</color>
+    <!--运算按钮颜色设置-->
+    <color name="colorOperator">#e47126</color>
+    <!--点击运算按钮后变色效果的颜色-->
+    <color name="colorOperator_grey">#b55f1c</color>
+    <!--数字按钮颜色设置-->
+    <color name="colorNumber">#ffffff</color>
+    <!--点击数字按钮后变色效果的颜色-->
+    <color name="colorNumber_grey">#999999</color>
+</resources>
